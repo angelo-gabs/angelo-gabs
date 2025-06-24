@@ -16,6 +16,8 @@ I love learning new things, stepping out of my comfort zone, and exploring how t
 - 🌱 I’m currently learning QA fundamentals and automated testing with Cypress.
 - 👀 I’m looking to connect with people working in software testing and quality assurance.
 - 🤝 I’m open to collaborating on beginner-friendly QA projects.
+
+![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelo-gabs&show_icons=true&theme=radical)
  
 
 
