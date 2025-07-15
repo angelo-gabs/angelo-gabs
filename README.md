@@ -8,7 +8,7 @@ Welcome to my profile! Thanks for visiting!!
 
 <img align="right" src="https://github.com/LuanaVieira95/LuanaVieira95/raw/main/computer-illustration.png" widht="350"/>
 
-Hi! My name is Angelo Gabriel Silveira, I'm 21 years old and currently studying Systems Analysis and Development at UNIFTEC. I'm passionate about technology and currently focusing on building a career in Quality Assurance (QA).
+Hi! My name is Angelo Gabriel Silveira, I'm 21 years old and i'm graduated in Systems Analysis and Development at UNIFTEC. I'm passionate about technology and currently focusing on building a career in Quality Assurance (QA).
 
 I love learning new things, stepping out of my comfort zone, and exploring how technology connects with human behavior, critical thinking, and real-world impact.
 
