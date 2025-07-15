@@ -13,6 +13,7 @@
 🚀 Tenho formação em Análise e Desenvolvimento de Sistemas e já explorei o desenvolvimento web full stack. Hoje, estou mergulhado no universo da qualidade de software e aprendendo testes manuais e automação de testes com Cypress.
 
 🎸 Hobbies: música, tocar guitarra, livros, filmes e jogos 
+
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelo-gabs&show_icons=true&theme=radical)
  
 
