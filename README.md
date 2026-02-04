@@ -8,13 +8,16 @@
 <img align="right" src="https://github.com/LuanaVieira95/LuanaVieira95/raw/main/computer-illustration.png" widht="350"/>
 
 
-🐞 Curioso por natureza, adoro tecnologia e tudo que envolve entender como as coisas funcionam. Gosto de aprender, questionar e buscar soluções, especialmente quando o assunto é qualidade de software.
+Sou formado em Análise e Desenvolvimento de Sistemas pela UNIFTEC e estou em transição para a área de Quality Assurance (QA), com foco em garantir qualidade, confiabilidade e boa experiência para o usuário final.
 
-🚀 Tenho formação em Análise e Desenvolvimento de Sistemas e já explorei o desenvolvimento web full stack. Hoje, estou mergulhado no universo da qualidade de software e aprendendo testes manuais e automação de testes com Cypress.
+Atualmente, participo do programa de mentoria da Lumestack, onde venho adquirindo experiência prática com testes manuais, Cypress, Postman, validação de APIs e análise de fluxos, desenvolvendo o olhar crítico essencial para identificar falhas e oportunidades de melhoria.
 
-🎸 Hobbies: música, tocar guitarra, livros, filmes e jogos 
+Tenho base sólida em tecnologias web (HTML, CSS, JavaScript, APIs e bancos de dados), o que me ajuda a compreender melhor o funcionamento das aplicações e a colaborar de forma mais eficiente com times de desenvolvimento.
 
-![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelo-gabs&show_icons=true&theme=radical)
+Além disso, atuo como jovem aprendiz na Sagres, no setor administrativo e de controle de estoque, realizando atividades de inventário, conferência e organização de processos experiências que fortalecem minha atenção aos detalhes, responsabilidade e consistência.
+
+Sou uma pessoa curiosa, organizada e com bom raciocínio lógico. Busco minha primeira oportunidade como QA, com vontade de aprender, crescer em equipe e contribuir para entregas de qualidade.
+
  
 
 
